@@ -1,0 +1,17 @@
+{
+  "name": "posts",
+  "version": "0.0.1",
+  "description": "My first app with CURD",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Master",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "method-override": "^3.0.0",
+    "uuid": "^8.3.2"
+  }
+}

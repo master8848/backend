@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hi There</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <h1>This is following posts</h1>
+    <ul>
+      <% for (let j of posts){ %>
+      <li><%= j.post %>- <strong><%=j.username %></strong></li>
+      <%}%>
+    </ul>
+    <a href="/form">Create New Post</a>
+  </body>
+</html>
