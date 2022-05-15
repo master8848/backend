@@ -1,0 +1,52 @@
+[
+  {
+      "_id": "6280786d601653fadb8fba16",
+      "ranking": 7,
+      "name": "chrhdsfjk",
+      "country": "USA",
+      "score": 1477,
+      "event": "100m",
+      "dob": "2002-11-22T18:15:00.000Z",
+      "__v": 0
+  },
+  {
+      "_id": "628078f5601653fadb8fba18",
+      "ranking": 6,
+      "name": "chrhdsfjk",
+      "country": "USA",
+      "score": 1477,
+      "event": "100m",
+      "dob": "2003-11-22T18:15:00.000Z",
+      "__v": 0
+  },
+  {
+      "_id": "6280798d8bdb92a78a88080c",
+      "ranking": 13,
+      "name": "chrhdsfjk",
+      "country": "USA",
+      "score": 1477,
+      "event": "100m",
+      "dob": "2003-11-22T18:15:00.000Z",
+      "__v": 0
+  },
+  {
+      "_id": "62807a35de8b3ec574b770a3",
+      "ranking": 1,
+      "name": "chrhdsfjk",
+      "country": "USA",
+      "score": 1477,
+      "event": "100m",
+      "dob": "2003-11-22T18:15:00.000Z",
+      "__v": 0
+  },
+  {
+      "_id": "62807a5e8bb830c50442693f",
+      "ranking": 3,
+      "name": "chrhdsfjk",
+      "country": "USA",
+      "score": 1477,
+      "event": "100m",
+      "dob": "2003-11-22T18:15:00.000Z",
+      "__v": 0
+  }
+]
